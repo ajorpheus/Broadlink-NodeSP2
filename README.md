@@ -48,6 +48,12 @@ OFF:
 `python sp2.py 10.0.0.4 b443000000 0`
 
 
+
+### Run NodeSP2
+
+`pi@raspberrypi:~/sp2 $ node main.js`
+
+
 ### Request Example (You can use a web browser as well):
 
 
@@ -64,11 +70,6 @@ OFF:
 
 
 ### Set as a service on a Raspberry PI
-
-
-### Run NodeSP2
-
-`~# node mai,js`
 
 
 1. Create a file named NodeSP2.service:
