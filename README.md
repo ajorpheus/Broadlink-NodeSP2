@@ -32,6 +32,7 @@ scriptPath: '[sp2.py script PATH]',
 </pre>
 
 
+
 ### Python script:
 
 You can test SP2 directly from the python script, it expects 3 arguments: IP, MAC, STATE:
@@ -65,6 +66,9 @@ OFF:
 ### Set as a service on a Raspberry PI
 
 
+### Run NodeSP2
+
+`~# node mai,js`
 
 
 1. Create a file named NodeSP2.service:
@@ -89,3 +93,5 @@ WantedBy=multi-user.target
 3. `systemctl daemon-reload`
 4. `systemctl enable NodeSP2`
 5. `systemctl start NodeSP2`
+
+
