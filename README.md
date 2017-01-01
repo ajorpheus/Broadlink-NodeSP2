@@ -27,8 +27,8 @@ It will send the request to the Python script and using the python-broadlink wil
 You will need to edit the "main.js" file lines 11 and 12 with the python and script path:
 
 <pre>
-pythonPath: '[PYTHON PATG',
-scriptPath: '[sp2.py script PATH]',
+pythonPath: '/usr/bin/python',
+scriptPath: '/home/pi/sp2',
 </pre>
 
 
