@@ -41,11 +41,11 @@ You can test SP2 directly from the python script, it expects 3 arguments: IP, MA
 
 ON:
 
-`python sp2.py 10.0.0.4 b4430dd39d49 1`
+`python sp2.py 10.0.0.4 b443000000 1`
 
 OFF:
 
-`python sp2.py 10.0.0.4 b4430dd39d49 0`
+`python sp2.py 10.0.0.4 b443000000 0`
 
 
 ### Request Example (You can use a web browser as well):
