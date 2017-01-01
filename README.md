@@ -72,7 +72,7 @@ OFF:
 ### Set as a service on a Raspberry PI
 
 
-1. Create a file named NodeSP2.service:
+Create a file named NodeSP2.service:
 
 <pre>
 
