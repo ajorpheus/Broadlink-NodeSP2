@@ -15,7 +15,7 @@ It will send the request to the Python script and using the python-broadlink wil
 
 ### Installation
 
-1. `git clone https://github.com/NightRang3r/NodeSP2`
+1. `git clone https://github.com/NightRang3r/Broadlink-NodeSP2`
 2. `sudo pip install broadlink`
 3. `npm install python-shell`
 4. `npm install express`
